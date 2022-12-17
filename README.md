@@ -10,3 +10,6 @@ Interesting observations so far:
 - ChatGPT will code things differently if you submit the same prompt more than once (in different chat threads). 
 - It does a good job of explaining error messages - which would then help me to modify the prompt in some way (usually I hadn't explained what I wanted correctly, or I hadn't given it enough guidance).
 - It doesn't check for error conditions unless specifically asked to.
+
+Days where it was easier to do it myself:
+- Day 7
