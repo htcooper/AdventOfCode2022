@@ -1,6 +1,6 @@
 # AdventOfCode2022
 
-For this year's Advent of Code, I decided to use [ChatGPT](https://chat.openai.com/chat) to see how well it would write code. 
+For this year's [Advent of Code](https://adventofcode.com/2022/), I decided to use [ChatGPT](https://chat.openai.com/chat) to see how well it would write code. 
 
 I followed 2 rules:
 - I waited so that I would in no way impact the leaderboard.
